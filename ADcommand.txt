@@ -1,0 +1,3 @@
+Command to list all AD commands
+-----------------------------------
+Get-Command -Module ActiveDirectory
